@@ -1,0 +1,17 @@
+{
+  "name": "czech-stemmer",
+  "version": "0.1.0",
+  "description": "Stemmer for Czech language in Javascript",
+  "main": "agressive.js",
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/dundalek/czech-stemmer.git"
+  },
+  "homepage": "http://github.com/dundalek/czech-stemmer",
+  "author": "Jakub Dundalek <dundalek@gmail.com> (http://dundalek.com/)",
+  "license": "BSD",
+  "keywords": [ "stemmer", "stemming", "czech", "language" ]
+}
