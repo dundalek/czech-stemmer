@@ -39,3 +39,7 @@ To reuse Java code as much as possible, limited version of StringBuffer was impl
 - 'private void' -> 'function'
 - 'int ' -> 'var '
 - 'StringBuffer ' -> ''
+
+## License
+
+BSD
